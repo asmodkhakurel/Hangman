@@ -1,3 +1,4 @@
+[Document.txt](https://github.com/asmodkhakurel/Hangman/files/6105975/Document.txt)
 # Hangman
 /* Hangman 
 by Asmod Khakurel
