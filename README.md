@@ -1,10 +1,11 @@
 [Document.txt](https://github.com/asmodkhakurel/Hangman/files/6105975/Document.txt)
+
 # Hangman c++
 /* Hangman 
 by Asmod Khakurel
 
 This hangman is an interactive game where you will need to make guesses for the word generated randomly by the program */
-
+``` cpp 
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -193,3 +194,4 @@ int main() {
 }
 
 //Thank you
+```
